@@ -1,0 +1,122 @@
+{
+  "quiz": [
+  {
+  "category": "Entertainment: Video Games",
+  "type": "multiple",
+  "difficulty": "hard",
+  "question": "In the Super Mario Bros. Series, what is Yoshi&#039;s scientific name?",
+  "correct_answer": "T. Yoshisaur Munchakoopas",
+  "incorrect_answers": [
+  "Yoshi",
+  "T. Yoshisotop Munchakoopas",
+  "Yossy"
+  ]
+  },
+  {
+  "category": "Entertainment: Video Games",
+  "type": "multiple",
+  "difficulty": "easy",
+  "question": "Which franchise does the creature &quot;Slowpoke&quot; originate from?",
+  "correct_answer": "Pokemon",
+  "incorrect_answers": [
+  "Dragon Ball",
+  "Sonic The Hedgehog",
+  "Yugioh"
+  ]
+  },
+  {
+  "category": "Entertainment: Cartoon & Animations",
+  "type": "multiple",
+  "difficulty": "easy",
+  "question": "In &quot;Avatar: The Last Airbender&quot;, which element does Aang begin to learn after being defrosted?",
+  "correct_answer": "Water",
+  "incorrect_answers": [
+  "Air",
+  "Earth",
+  "Fire"
+  ]
+  },
+  {
+  "category": "Geography",
+  "type": "multiple",
+  "difficulty": "hard",
+  "question": "What is the area of Vatican City?",
+  "correct_answer": "0.44km^2",
+  "incorrect_answers": [
+  "0.10km^2",
+  "0.86km^2",
+  "12.00km^2"
+  ]
+  },
+  {
+  "category": "Geography",
+  "type": "multiple",
+  "difficulty": "easy",
+  "question": "Which of the following Japanese islands is the biggest?",
+  "correct_answer": "Honshu",
+  "incorrect_answers": [
+  "Hokkaido",
+  "Shikoku",
+  "Kyushu"
+  ]
+  },
+  {
+  "category": "Geography",
+  "type": "multiple",
+  "difficulty": "easy",
+  "question": "What is the smallest country in the world?",
+  "correct_answer": "Vatican City",
+  "incorrect_answers": [
+  "Maldives",
+  "Monaco",
+  "Malta"
+  ]
+  },
+  {
+  "category": "General Knowledge",
+  "type": "multiple",
+  "difficulty": "easy",
+  "question": "How tall is the Burj Khalifa?",
+  "correct_answer": "2,722 ft",
+  "incorrect_answers": [
+  "2,717 ft",
+  "2,546 ft",
+  "3,024 ft"
+  ]
+  },
+  {
+  "category": "Science & Nature",
+  "type": "boolean",
+  "difficulty": "easy",
+  "question": "An average human can go two weeks without water.",
+  "correct_answer": "False",
+  "incorrect_answers": [
+  "True"
+  ]
+  },
+  {
+  "category": "Entertainment: Music",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "What was Britney Spears&#039; debut single?",
+  "correct_answer": "...Baby One More Time",
+  "incorrect_answers": [
+  "Oops!... I Did It Again",
+  "(You Drive Me) Crazy",
+  "Toxic"
+  ]
+  },
+  {
+  "category": "History",
+  "type": "multiple",
+  "difficulty": "hard",
+  "question": "Who was the first man to travel into outer space twice?",
+  "correct_answer": "Gus Grissom",
+  "incorrect_answers": [
+  "Vladimir Komarov",
+  "Charles Conrad",
+  "Yuri Gagarin"
+  ]
+  }
+  ]
+  }
